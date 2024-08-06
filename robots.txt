@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ciecrify.github.io/sitemap.html.gz
+Sitemap: https://ciecrify.github.io/app/sitemap.html.gz
+Sitemap: https://ciecrify.github.io/assets/sitemap.html.gz
+Sitemap: https://ciecrify.github.io/css/sitemap.html.gz
+Sitemap: https://ciecrify.github.io/includes/sitemap.html.gz
+Sitemap: https://ciecrify.github.io/item/sitemap.html.gz
+Sitemap: https://ciecrify.github.io/src/sitemap.html.gz
